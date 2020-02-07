@@ -1,0 +1,8 @@
+# Ignore / not push test and train data
+data/
+
+# Ignore the testing notebook
+**/sandbox.ipynb
+
+# ignore jupyter notebook stuff
+**/.ipynb_checkpoints/
